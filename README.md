@@ -3,11 +3,11 @@ of what the Spotify API is capable of.
 
 Some boiler plate code that I used to make the accessibility of the API a little easier:
 
-Use this repo as a boiler plate backend
+Use this repo as a boiler plate backend:
 1) https://github.com/spotify/web-api-auth-examples
 
 
-Use this repo in order to make API calls easier
+Use this repo in order to make API calls easier:
 2) https://github.com/JMPerez/spotify-web-api-js
 
 Once you have both of these repos, it is really up to you as to what front-end
