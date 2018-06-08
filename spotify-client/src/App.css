@@ -1,0 +1,102 @@
+
+.all-cards {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.see-your-playlists {
+  height: 50px;
+  width: 115px;
+  border-radius: 5px;
+  margin: 5px;
+  outline: none;
+  cursor: pointer;
+}
+
+.login-link {
+  text-decoration: none;
+  margin-left: 10px;
+}
+.headerContentStyle {
+  display: flex;
+  flex-direction: column;
+  align-content: flex-start;
+  margin-left: 10px;
+  line-height: 0px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  max-width: 200px;
+}
+.headerTextStyle-song {
+  font-size: 20px;
+  text-overflow: ellipsis;
+}
+.headerTextStyle-artist {
+  font-size: 14px;
+  text-overflow: ellipsis;
+}
+.thumbnailStyle {
+  height: 70px;
+  width: 70px;
+  padding-top: 5px;
+  padding-left: 5px;
+}
+.imageStyle {
+  height: 300px;
+  width: 300px;
+  margin: 0 auto;
+}
+
+.button-style {
+  flex: 1;
+  align-self: stretch;
+  background-color: #fff;
+  border-radius: 5px;
+  border-width: 1px;
+  border-color: #007aff;
+  margin-left: 5px;
+  margin-right: 5px;
+  outline: none;
+}
+
+.button-text {
+  align-self: center;
+  color: #007aff;
+  font-size: 16px;
+  font-weight: 600;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  cursor: pointer;
+}
+
+.playlist-button {
+  height: 50px;
+  width: 115px;
+  border-radius: 5px;
+  margin: 5px;
+  outline: none;
+  cursor: pointer;
+}
+
+.playlist-button-active {
+  height: 50px;
+  width: 115px;
+  border-radius: 5px;
+  margin: 5px;
+  background-color: #007aff;
+  color: white;
+  outline: none;
+  cursor: pointer;
+}
+.playlist-button-container {
+  text-align: center;
+}
+
+.song-data-styling {
+  margin-left: 10px;
+  height: 300px;
+  width: 300px;
+  padding-top: -15px;
+}

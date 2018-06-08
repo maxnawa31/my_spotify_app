@@ -1,0 +1,14 @@
+.card-section {
+  /* border-bottom-width: 1px;
+  padding: 5px;
+  background-color: #fff;
+  display: flex;
+  flex-direction: row;
+  border-color: #ddd;
+  position: relative; */
+  display: flex;
+  flex-direction: row;
+  border-bottom: 1px solid black;
+  border-bottom-width: 1px;
+  padding: 5px;
+}
